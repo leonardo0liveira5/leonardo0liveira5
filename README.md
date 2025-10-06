@@ -1,6 +1,9 @@
 # 👨🏻‍💻 Leonardo Oliveira
 
 **`Desenvolvedor FullStack`**
+<p>
+    💻 Formado em Análise e Desenvolvimento de Sistemas e estudando desenvolvimento full stack, com foco em criar soluções modernas, visuais e bem estruturadas. Tenho me aprofundado nas bases da área e busco evoluir constantemente, aprendendo novas tecnologias e explorando tudo que envolve as linguagens que estudo.
+</p>
 
 
 
@@ -94,6 +97,15 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="NodeJS" 
+    title="NodeJS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+           
 />
 <img 
     align="left" 
