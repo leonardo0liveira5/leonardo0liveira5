@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Leonardo Oliveira
+# 👨🏻‍💻 Leonardo Oliveira
 
 **`Desenvolvedor FullStack`**
 
